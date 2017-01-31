@@ -1,4 +1,5 @@
-// BAHASA
+# BAHASA
+
 Kepada XXXXXXXX,
 
 Perkenalkan nama saya Kresna.
@@ -17,7 +18,8 @@ Berikut saya lampirkan resume saya sebagai bahan pertimbangan.
 Bila dikehendaki, saya bersedia memenuhi panggilan Anda untuk dites dan diwawancarai.
 Atas perhatian anda, saya mengucapkan terima kasih.
 
-// INGGRIS
+
+# INGGRIS
 Dear XXXXXXXX,
 
 My name is Kresna. I saw in your website (or advertisement job vacant like Jobstreet or Indeed) (show the link)
@@ -34,4 +36,4 @@ I am please to attach my resume as consideration.
 
 If desired, I am willing to fullfil your call to be tested and interviewed.
 
-Thank you for your attention
+Thank you for your attention.
